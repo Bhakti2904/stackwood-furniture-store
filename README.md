@@ -40,8 +40,8 @@ Place the folder in htdocs (if using XAMPP)
 
 Open http://localhost/stackwood-furniture/ in your browser
 
-🙌 Contribution
-This is a beginner-level academic project. Contributions and improvements are welcome!
+[Watch Demo Video](assets/demo.mp4)
+
 
 📄 License
 This project is open-source and available under the MIT License.
