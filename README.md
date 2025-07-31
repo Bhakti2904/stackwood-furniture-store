@@ -40,7 +40,7 @@ Place the folder in htdocs (if using XAMPP)
 
 Open http://localhost/stackwood-furniture/ in your browser
 
-[Watch Demo Video](https://drive.google.com/file/d/19jU5PgQjtAlA1ACwJO75JpZ6oYqydLQR/view?usp=drive_link)
+[Watch Demo Video](https://drive.google.com/file/d/19jU5PgQjtAlA1ACwJO75JpZ6oYqydLQR/view?usp=sharing)
 
 
 📄 License
